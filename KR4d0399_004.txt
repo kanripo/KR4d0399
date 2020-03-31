@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廬山集
-#+DATE: 2020-03-31 11:35:06.267670
+#+DATE: 2020-03-31 11:35:06.337831
 #+PROPERTY: ID KR4d0399
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR4d0399_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -372,7 +372,7 @@
 ¶
 　　丹楓葉葉委江塘旅况空餘古錦嚢闕下有家勞夢寐¶
 燈前無酒遣荒凉陳蹤浮泛棲僧舍往事消磨落客床¶
-世態自應酬酢懶已𢬵雙鬢受年光¶
+世態自應酬酢懶已拚雙鬢受年光¶
 ¶
 　　晚來抱懶炙孤燈臨水禪樓獨自登鳥道草深雲宛宛¶
 <pb:KR4d0399_WYG_004-15a>¶

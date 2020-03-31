@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廬山集
-#+DATE: 2020-03-31 11:35:06.258221
+#+DATE: 2020-03-31 11:35:06.329329
 #+PROPERTY: ID KR4d0399
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR4d0399_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -150,7 +150,7 @@
 ¶
 　　讀書無靈時易過剰得此身寄寒餓浮議徒然强雌黄¶
 <pb:KR4d0399_WYG_003-7b>¶
-孤生已𢬵蟻旋磨江湖説詩在處多字不堪煮詩奈何¶
+孤生已拚蟻旋磨江湖説詩在處多字不堪煮詩奈何¶
 不若將軍氊帳醉兒郎帳裏傳羌歌歸尋種秫安愚分¶
 微名微利天所靳長沮桀溺隠者歟耦耕曾答仲由問¶
 濁世悲歡無歇時公事不了歸癡兒胷蟠今古何足恃¶
